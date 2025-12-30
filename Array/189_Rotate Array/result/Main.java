@@ -74,14 +74,14 @@ public class Main {
       int []testArray = nums.clone();
       switch(choice)
       {
-        case 1:
-          new Solution1().rotate(testArray,k);
+        case 1: // The method rotate(int[], int) is undefined for the type Solution1
+          new Solution1().rotate1(testArray,k);
           break;
         case 2:
-          new Solution2().rotate(testArray,k);
+          new Solution2().rotate2(testArray,k);
           break;
         case 3:
-          new Solution3().rotate(testArray,k);
+          new Solution3().rotate3(testArray,k);
           break;
         default:
           System.out.println("nothing");

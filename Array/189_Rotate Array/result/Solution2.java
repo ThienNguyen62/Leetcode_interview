@@ -4,9 +4,9 @@
 chia mảng thành 2 phần d và n-d
 sau đó lại nghịch đảo từng phần */
 
-public class Solution2 {
+ class Solution2 {
     // Reversal Algorithm (thuat toan dao nguoc)
-    public void rotate (int [] nums,int k)
+    public void rotate2 (int [] nums,int k)
     {
         int n =nums.length;
         k=k%n; // neu k >n

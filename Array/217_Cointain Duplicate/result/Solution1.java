@@ -52,4 +52,5 @@ public class Solution1   // dùng sorting rồi kiểm tra 2 số sát nhau có 
     }
     return false;
 }
+
 }

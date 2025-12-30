@@ -1,5 +1,6 @@
-public class Solution3 {
-    public void rotate(int[] nums,int k)
+
+ class Solution3 {
+    public void rotate3(int[] nums,int k)
     {
         int n = nums.length;
         k=k%n;
