@@ -66,7 +66,7 @@ public class Main {
             prices[i]= sc.nextInt ();
         }   
         // gọi solution
-        Solution sol = new Solution ();
+        Solution122 sol = new Solution122 ();
         int result = sol.maxProfit (prices); 
         // in kết quả
         System.out.println("ket qua la:"+result);

@@ -48,12 +48,12 @@ public class Main {
         
         switch (choice) {
             case 1:
-                Solution1 s1 = new Solution1();
+                Solution217_1 s1 = new Solution217_1();
                 result = s1.containsDuplicate(nums);
                 break;
 
             case 2:
-                Solution2 s2 = new Solution2();
+                Solution217_2 s2 = new Solution217_2();
                 result = s2.containsDuplicate(nums);
                 break;
 

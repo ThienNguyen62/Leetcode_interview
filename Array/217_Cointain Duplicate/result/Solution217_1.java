@@ -37,7 +37,7 @@ Constraints:
 -109 <= nums[i] <= 109
  */
 import java.util.*;
-public class Solution1   // dùng sorting rồi kiểm tra 2 số sát nhau có bằng nhau không
+public class Solution217_1   // dùng sorting rồi kiểm tra 2 số sát nhau có bằng nhau không
 {
     public boolean containsDuplicate(int [] nums)
     {

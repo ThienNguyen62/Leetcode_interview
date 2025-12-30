@@ -4,7 +4,7 @@
 chia mảng thành 2 phần d và n-d
 sau đó lại nghịch đảo từng phần */
 
- class Solution2 {
+ class Solution189_2 {
     // Reversal Algorithm (thuat toan dao nguoc)
     public void rotate2 (int [] nums,int k)
     {

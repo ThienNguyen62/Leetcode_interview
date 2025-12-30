@@ -37,7 +37,7 @@ Could you do it in-place with O(1) extra space?
 */
 
 
-class Solution1 {
+class Solution189_1 {
     // One bye one ( Rotate turn by turn )
     public void rotate1 (int [] nums, int k )
     {

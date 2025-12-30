@@ -1,5 +1,5 @@
 
- class Solution3 {
+ class Solution189_3 {
     public void rotate3(int[] nums,int k)
     {
         int n = nums.length;

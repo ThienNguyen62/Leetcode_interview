@@ -75,13 +75,13 @@ public class Main {
       switch(choice)
       {
         case 1: // The method rotate(int[], int) is undefined for the type Solution1
-          new Solution1().rotate1(testArray,k);
+          new Solution189_1().rotate1(testArray,k);
           break;
         case 2:
-          new Solution2().rotate2(testArray,k);
+          new Solution189_2().rotate2(testArray,k);
           break;
         case 3:
-          new Solution3().rotate3(testArray,k);
+          new Solution189_3().rotate3(testArray,k);
           break;
         default:
           System.out.println("nothing");

@@ -37,7 +37,7 @@ Constraints:
 
 */
 import java.util.*;
-class Solution
+class Solution122
 {
       public int maxProfit (int [] princes)
       {

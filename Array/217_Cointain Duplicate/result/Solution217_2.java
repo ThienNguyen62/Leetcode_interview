@@ -39,7 +39,7 @@ Constraints:
 
 // Dùng set ,cỡ O (n)
 import java.util.*;
-public class Solution2 {
+public class Solution217_2 {
     public boolean containsDuplicate (int [] nums)
     {
         Set<Integer> numSet = new HashSet<>();
