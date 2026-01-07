@@ -41,7 +41,7 @@ Duyệt mảng 1 lần, không cần bộ nhớ phụ
  
 
 độ phức tạp O(n)*/
-class Solution139_1 {
+class Solution136_1 {
     public int singleNumber1(int[] nums)
     {
         int res =0;

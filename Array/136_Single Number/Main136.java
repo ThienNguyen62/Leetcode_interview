@@ -34,7 +34,7 @@ Each element in the array appears twice except for one element which appears onl
 
 
 import java.util.*;
-public class Main {
+public class Main136 {
     public static void main (String [] args)
     {
         Scanner sc = new Scanner (System.in);
@@ -58,12 +58,12 @@ public class Main {
         switch (choice)
         {
             case 1:
-                Solution139_1 s1 = new Solution139_1();
+                Solution136_1 s1 = new Solution136_1();
                 result = s1.singleNumber1(nums);
                 System.out.println(" Ket qua : " + result);
                 break;
             case 2:
-                Solution139_2 s2 = new Solution139_2();
+                Solution136_2 s2 = new Solution136_2();
                 result = s2.singleNumber2(nums);
                 System.out.println(" Ket qua : "+ result);
                 break;

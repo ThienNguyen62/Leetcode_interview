@@ -25,7 +25,7 @@ Constraints:
 
 import java.util.*;
 // duyệt lần lượt độ chạy là 0(n^2) không tối ưu
-public class Main {
+public class Main217 {
        // hàm main
     public static void main (String [] args)
     {

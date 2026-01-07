@@ -1,7 +1,7 @@
 
 // dùng sort phức tạp nlog n
 import java.util.*;
- class Solution139_2 {
+ class Solution136_2 {
     public int singleNumber2 (int [] nums)
     {
     Arrays.sort(nums);

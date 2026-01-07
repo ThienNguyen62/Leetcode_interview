@@ -38,7 +38,7 @@ Could you do it in-place with O(1) extra space?
 
 import java.util.*;
 
-public class Main {
+public class Main189 {
    private static void printArray(int[] nums) {
     System.out.print("[");
     for (int i = 0; i < nums.length; i++) {
