@@ -28,7 +28,7 @@ What if elements of nums2 are stored on disk, and the memory is limited such tha
  */
 import java.util.*;
 
-public class Main {
+public class Main350 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
